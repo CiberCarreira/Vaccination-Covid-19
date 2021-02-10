@@ -5,7 +5,7 @@ O objetivo desse código é apenas visualizar de forma dinâmica o crescimento d
 
 Os pacotes e requisitos necessários vão ser:
 
-- instalação do ffmpeg - Para visualização do vídeo gerado.
+- Instalação do ffmpeg - Para visualização do vídeo gerado.
 - Pacote pandas
 - Pacote bar_chart_race
 
